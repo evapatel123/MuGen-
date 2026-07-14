@@ -22,7 +22,7 @@ Make sure you have Python 3.10+ and a Hugging Face API Token.
 ### Other Credits
 Used ffilioni API clients from HuggingFace.
 
-### Preview
+###  Preview
 Preview on Hugging Face: https://huggingface.co/spaces/eva1267890/MuGen
 Note: You may need a HuggingFace account for viewing this space.
 
