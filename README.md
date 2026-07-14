@@ -24,7 +24,7 @@ Used ffilioni API clients from HuggingFace.
 
 ###  Preview
 Preview on Hugging Face: https://huggingface.co/spaces/eva1267890/MuGen
-Note: You may need a HuggingFace account for viewing this space.
+Note: You may or may not need a HuggingFace account for viewing this space.
 
 ### Screenshot
 <p align="center">
