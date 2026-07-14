@@ -1,6 +1,6 @@
 # ⚡ MuGen V2: Image to Music Matrix ⚡
 
-MuGen V2 is a cyberpunk-themed web application built with Gradio that transforms visual spectrums (images) into sonic waveforms (music). The system utilizes image captioning networks, LLM prompt engineering, and bleeding-edge audio generation APIs to compose soundtrack matrices tailored to the mood of an image.
+MuGen V2 is a cyberpunk-themed web application built with Gradio that transforms images into music. The system utilizes image captioning networks, LLM prompt engineering, and bleeding-edge audio generation APIs to compose soundtrack matrices tailored to the mood of an image.
 
 ## 🔮 Core Features
 * **Visual Spectrography:** Image processing using the Kosmos-2 visual language model.
@@ -18,7 +18,7 @@ Make sure you have Python 3.10+ and a Hugging Face API Token.
    ```bash
    git clone [https://github.com/YOUR_USERNAME/MuGen-V2.git](https://github.com/YOUR_USERNAME/MuGen-V2.git)
    cd MuGen-V2
-
+   
 ### Other Credits
 Used ffilioni API clients from HuggingFace.
 
